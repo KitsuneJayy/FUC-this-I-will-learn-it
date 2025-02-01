@@ -1,4 +1,4 @@
 1. Create venv 
 2. Install library
 3. put video.mp4 in folder and change cap = cv2.VideoCapture("...... .mp4")
-4.Run it!
+4.Run it!!
